@@ -11,7 +11,8 @@ const hogs = [
     specialty: 'Making friends',
     greased: true,
     weight: 1.6,
-    'highest medal achieved': 'silver'
+    'highest medal achieved': 'silver',
+    dirty: true
   },
   {
     name: 'Cherub',
@@ -25,7 +26,8 @@ const hogs = [
     specialty: 'Massivity',
     greased: true,
     weight: 5.1,
-    'highest medal achieved': 'platinum'
+    'highest medal achieved': 'platinum',
+    dirty: true
   },
   {
     name: 'Trouble',
