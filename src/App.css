@@ -74,6 +74,8 @@ ul {
 
 
 .pigTile {
+  /* animation: App-logo-spin infinite 5s linear; */
+  
   display: inline;
   background-repeat: no-repeat;
   background-position: center 90%;

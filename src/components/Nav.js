@@ -11,7 +11,7 @@ class Nav extends Component {
 					<img src={piggy} className="App-logo" alt="piggy" />
 				</div>
 				<span className="normalText">A React App for County Fair Hog Fans</span>
-				<button onClick = {this.props.greased} > Greased filter: {`${this.props.greasedState}`} </button>
+				
 			</div>
 		)
 	}

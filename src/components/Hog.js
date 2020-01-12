@@ -9,7 +9,7 @@ class Hog extends Component {
     }
 
     switchFace = () => {
-        console.log("click")
+
         if (this.state.faceup) { 
             this.setState({
                 faceup: false
